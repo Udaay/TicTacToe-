@@ -12,7 +12,7 @@
   "devDependencies": {
     "nodemon": "^1.19.4",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "createjs": "^1.0.1",
